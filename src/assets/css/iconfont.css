@@ -1,0 +1,33 @@
+/*
+* @Author: zengxianlin
+* @Date:   2017-07-26 22:37:27
+* @Last Modified by:   877529974@qq.com
+* @Last Modified time: 2017-08-02 18:30:01
+*/
+@font-face {
+  font-family: 'iconfont';  /* project id 366129 */
+  src: url('https://at.alicdn.com/t/font_ogngshmxavyujtt9.eot');
+  src: url('https://at.alicdn.com/t/font_ogngshmxavyujtt9.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_ogngshmxavyujtt9.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_ogngshmxavyujtt9.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_ogngshmxavyujtt9.svg#iconfont') format('svg');
+}
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-stats:before { content: "\e600"; color: #fea54c; font-size:0.5625rem;}
+.icon-IMAX:before { content: "\e7a0"; color: #dcdbe2; font-size:.45rem;}
+.icon-3D:before { content: "\e6d9"; color: #b9b7c5; font-size:.5rem;}
+.icon-return:before { content: "\e603"; color: #fff; font-size:0.8125rem;}
+.icon-top:before { content: "\e677"; color: #26a2ff; font-size:1.2rem;}
+.icon-player:before { content: "\e63d"; color: #fff; font-size:1.2rem;}
+.icon-scoreK:before { content: "\e604"; color: #ff9900; font-size:0.3rem;}
+.icon-scoreB:before { content: "\e62d"; color: #ff9900; font-size:0.3rem;}
+.icon-scoreQ:before { content: "\e62C"; color: #ff9900; font-size:0.3rem;}
+.icon-fabulous:before { content: "\e614"; color: #999; font-size:0.45rem;}
+.icon-chat:before { content: "\e63e"; color: #999; font-size:0.45rem;}
+.icon-user:before { content: "\e62e"; color: #26a2ff; font-size:0.8rem;}
