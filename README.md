@@ -1,8 +1,7 @@
 # 掏票票
 
 > A Vue.js project
-## 开发进度 30% 
-#### 后续继续开发
+## 开发进度 30% ####### 后续继续开发
 ### 效果图
 ![效果图1](https://github.com/zengxianlin/dug-movie/blob/master/src/assets/1.gif)
 ``` bash
