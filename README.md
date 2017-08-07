@@ -3,7 +3,8 @@
 > A Vue.js project
 
 ## Build Setup
-
+### 效果图
+![效果图1](https://raw.githubusercontent.com/zengxianlin/huiyishi/master/images/UI_DEMO/1.png)
 ``` bash
 # install dependencies
 npm install
