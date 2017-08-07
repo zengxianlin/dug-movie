@@ -4,7 +4,7 @@
 
 ## Build Setup
 ### 效果图
-![效果图1](https://raw.githubusercontent.com/zengxianlin/huiyishi/master/images/UI_DEMO/1.png)
+![效果图1](https://github.com/zengxianlin/dug-movie/blob/master/src/assets/1.gif)
 ``` bash
 # install dependencies
 npm install
