@@ -1,6 +1,7 @@
 # 淘票票
 
 > 效果图
+#
 ![效果图1](https://github.com/zengxianlin/dug-movie/blob/master/src/assets/1.gif)
 ``` bash
 # install dependencies
