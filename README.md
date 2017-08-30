@@ -24,6 +24,26 @@
 git clone https://github.com/zengxianlin/dug-movie.git
 ```
 ``` bash
+### 安装
+
+```
+npm install
+```
+
+### 运行
+
+```
+npm run dev
+```
+浏览器输入:http://localhost:8080 即可看到效果
+
+### 打包
+
+```
+npm run build
+```
+
+
 # install dependencies
 npm install
 
@@ -33,5 +53,6 @@ npm run dev
 # build for production with minification
 npm run build
 ```
+### 感谢
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+感谢您的来访 ，如果对于您有帮助 ，麻烦您使劲的给个Star吧 ！ ^_^ 
