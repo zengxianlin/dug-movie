@@ -1,8 +1,14 @@
 # 淘票票
-
+这是基于vue2 + vue-router + vuex + axios + mint-ui 仿(淘票票)的一个H5项目！去年的时候开始接触vue,后面一直想做一个东西出来实践下自己所学的知识点，在这做这个项目之前，自己也一直在找资料学习，希望这份demo项目能带给初学者少走弯路。一开始的时候还是习惯性的思维使用曾经的jquery那样的方式来进行开发 ，越用感觉越别扭，此时也意识到自己可能走偏了 ，所以也不断的根据文档API去看 ，去慢慢尝试转变自己的思维方式 ，以数据作为驱动，慢慢的就开始尝到了框架所带来的好处及方便，
+对于数据双向绑定,组件化,模块化, 数据的处理和模板的渲染，性能的优化 ,滚动加载， 图片懒加载 等！有一个完整的认识 ，不过毕竟还是第一次使用，还是有很多不足 ，只能算是一个入门的demo，在大体上对vue有一个认识的 。
 > 效果图
-#
+
 ![效果图1](https://github.com/zengxianlin/dug-movie/blob/master/src/assets/1.gif)
+### 项目地址：（`git clone`）
+
+```shell
+git clone https://github.com/zengxianlin/dug-movie.git
+```
 ``` bash
 # install dependencies
 npm install
