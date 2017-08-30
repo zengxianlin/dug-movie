@@ -23,17 +23,21 @@
 ```shell
 git clone https://github.com/zengxianlin/dug-movie.git
 ```
-``` bash
 ### 安装
+
 ```
 npm install
 ```
+
 ### 运行
+
 ```
 npm run dev
 ```
-浏览器输入:http://localhost:8080 即可看到效果
-### 打包
+浏览器输入:(http://localhost:8080)即可看到效果
+
+### 发布
+
 ```
 npm run build
 ```
